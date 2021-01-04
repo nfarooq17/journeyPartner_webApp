@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Journey-Partner/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Journey-Partner/static/js/main.59a29831.chunk.js",
+    "main.js.map": "/Journey-Partner/static/js/main.59a29831.chunk.js.map",
+    "runtime-main.js": "/Journey-Partner/static/js/runtime-main.5feb426b.js",
+    "runtime-main.js.map": "/Journey-Partner/static/js/runtime-main.5feb426b.js.map",
+    "static/js/2.8ea2b59b.chunk.js": "/Journey-Partner/static/js/2.8ea2b59b.chunk.js",
+    "static/js/2.8ea2b59b.chunk.js.map": "/Journey-Partner/static/js/2.8ea2b59b.chunk.js.map",
+    "index.html": "/Journey-Partner/index.html",
+    "precache-manifest.78f8feef7f1ce516d3fa4ea8bb45d478.js": "/Journey-Partner/precache-manifest.78f8feef7f1ce516d3fa4ea8bb45d478.js",
+    "service-worker.js": "/Journey-Partner/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Journey-Partner/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8ea2b59b.chunk.js.LICENSE.txt": "/Journey-Partner/static/js/2.8ea2b59b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5feb426b.js",
+    "static/js/2.8ea2b59b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.59a29831.chunk.js"
+  ]
+}
